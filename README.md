@@ -3,7 +3,7 @@
 
 A real-time ray tracing shader implemented in **GLSL**. This project demonstrates fundamental ray tracing techniques such as sphere intersection, material shading (Lambertian, Metal, Dielectric), reflections, and refractions – all rendered in a ShaderToy-like environment.
 
-![Shader Demo](https://github.com/user-attachments/assets/e87726fa-391e-4aae-822a-0afe0abf2d34?raw=true)
+![Shader Demo](https://github.com/user-attachments/assets/e87726fa-391e-4aae-822a-0afe0abf2d34?raw=true "Vid-ezgif.com-optimize")
 
 ## Overview
 
